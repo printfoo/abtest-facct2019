@@ -1,4 +1,4 @@
-## Code for A/B tests paper @ FAccT 2019.
+## Code for the A/B tests paper @ FAccT 2019.
 
 ### Paper:
 **Who's the Guinea Pig? Investigating Online A/B/n Tests in-the-Wild**  
